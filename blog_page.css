@@ -1,0 +1,28 @@
+/* LET'S BEGIN */
+
+/* MASTER BODY PROPERTIES */
+body
+    {
+        /* TOO BAD THERE'S NO TERMINAL FONT :( */
+        font-family:            'Courier New', Courier, monospace;
+        
+    }
+/* ////////////////////////////////////////////////////////////// */
+
+/* HEADER CONTAINER */
+#header_container
+    {
+        /* BACKGROUND PROPERTIES */
+        background-color:       green;
+        /* TEXT COLOR PROPERTIES */
+        color:                  white;
+        /* ALIGNMENT PROPERTIES */
+    }
+/* HEADER TEXT */
+#header_text
+    {
+        /* BORDER PROPERTIES */
+        border:                 3px solid black;
+        /* FONT SIZE PROPERTIES */
+        font-size:      200.00%;
+    }
